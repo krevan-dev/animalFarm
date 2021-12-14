@@ -1,2 +1,2 @@
-# D1-AnimalFarm
+# AnimalFarm
 Codeworks Daily Project
